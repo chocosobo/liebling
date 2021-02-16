@@ -533,7 +533,7 @@ textarea,
 /** Config  */
 :root,
 [data-theme=light] {
-  --background-color: #fff;
+  --background-color: #d3d3d3;
   --primary-foreground-color: #4a4a4a;
   --secondary-foreground-color: #000;
   --primary-subtle-color: #0470ee;
@@ -549,7 +549,6 @@ textarea,
   --submenu-shadow-color-opacity: 0.25;
   --button-shadow-color-normal: rgba(108, 108, 108, 0.2);
   --button-shadow-color-hover: rgba(108, 108, 108, 0.3);
-  --table-background-color-odd: #fafafa;
   --table-head-border-bottom: #e2e2e2;
   --toggle-darkmode-button-display-moon: block;
   --toggle-darkmode-button-display-sun: none;
